@@ -1,10 +1,14 @@
 
-.p,body {
-    font-family: Verdana,sans-serif
-    line: height 1.6em;
-    color: #333;
-    margin: 0;
-    padding: 0;
+p.a {
+    font-family: 'Verdana', serif
+  }
+
+  p.b {
+    font-family: 'Verdana', serif
+  }
+
+  p.a{
+    color: #4CAF50;
   }
   
   header {
