@@ -4,13 +4,9 @@ p.a {
   }
 
   p.b {
-    font-family: 'Verdana', serif
+    font-family: 'Verdana', serif;
   }
 
-  p.a{
-    color: #4CAF50;
-  }
-  
   header {
     background-color: #16ad1b;
     text-align: center;
@@ -31,13 +27,13 @@ p.a {
     margin-bottom: 2rem;
   }
   
-  h3 {
+  .body {
     margin-bottom: 0.5rem;
-    color: #4CAF50;
+    color: #4CAF50; padding: auto;
   }
   
   a {
-    width: fit-content;
+    width: fit-content; border-start-start-radius: 56;
   }
   
   aside h2 {
@@ -54,18 +50,13 @@ p.a {
     margin-bottom: 0.5rem;
   }
   
-  input[type="email"] {
-    padding: 0.5rem;
-    margin-bottom: 1rem;
-  }
-  
+
   td {column-span: all;
     text-align: center;
   }
 
   .img { 
-    align-self: center;width: auto
-    border 46 
+   flex-direction: column; justify-content: flex; align-items: stretch
     
   }
 
