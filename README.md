@@ -19,5 +19,5 @@ I was tasked to create a website containing 2 pages of my favorite fictional cit
 
 ![HomePage](/images/simpleTravelSiteHome.png)
 ![Gallery](/images/simpleTravelSiteGallery.png)
-![HomePagecssStyling](/images/simpleTravelSiteHomeTableStyle.pngl)
+![HomePagecssStyling](/images/simpleTravelSiteHomeTableStyle.png)
 
