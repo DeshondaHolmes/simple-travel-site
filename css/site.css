@@ -1,78 +1,17 @@
+nav{
+  font-size: larger;
 
-p.a {
-    font-family: 'Verdana', serif
-  }
+}
 
-  p.b {
-    font-family: 'Verdana', serif;
-  }
+section{
+  margin-left: 15%;
 
-  header {
-    background-color: #16ad1b;
-    text-align: center;
-    padding: 1rem 0;
-  }
-  
-  header h1 {
-    color: rgb(140, 39, 39);
-    margin: 0;
-  }
-  
-  h2 {
-    border-bottom: 3px solid #4CAF50;
-    padding-bottom: 0.5rem;
-  }
-  
-  article {
-    margin-bottom: 2rem;
-  }
-  
-  .body {
-    margin-bottom: 0.5rem;
-    color: #4CAF50; padding: auto;
-  }
-  
-  a {
-    width: fit-content; border-start-start-radius: 56;
-  }
-  
-  aside h2 {
-    margin-top: 0;
-    margin-bottom: 1rem;
-  }
-  
-  aside form {
-    display: flex;
-    flex-direction: column;
-  }
-  
-  label {
-    margin-bottom: 0.5rem;
-  }
-  
+}
 
-  td {column-span: all;
-    text-align: center;
-  }
-
-  .img { 
-   flex-direction: column; justify-content: flex; align-items: stretch
-    
-  }
-
-  table,th,td {
-    border: 1px solid
-  }
-
-  table {
-    width: 100%;
-  }
-  
-
-  footer {
-    background-color: #015d04;
-    color: white;
-    text-align: center;
-    padding: 1rem 0;rgb(98, 13, 13)rgb(13, 98, 13)rgb(39, 255, 39)
-    margin-top: 2rem;
-  }
+img{
+  margin-left: 6%;
+  margin-top: 2%;
+}
+header{
+ background:linear-gradient(rgba(39, 192, 12, 0.691),pink,rgba(255, 166, 0, 0.068))
+}
