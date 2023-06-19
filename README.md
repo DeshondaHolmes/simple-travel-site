@@ -7,7 +7,7 @@ I was tasked to create a website containing 2 pages of my favorite fictional cit
 -Header 
 -Navigation link to images page
 -2 paragraphs of lorem ipsum 
--A table with fictional information centered 
+-A table with fictional information centered , **add table border**
 
 #Images page
 -Header
@@ -15,5 +15,9 @@ I was tasked to create a website containing 2 pages of my favorite fictional cit
 -4 images centered 
 
 
+
+
 ![HomePage](/images/simpleTravelSiteHome.png)
 ![Gallery](/images/simpleTravelSiteGallery.png)
+![HomePagecssStyling](/images/simpleTravelSiteHomeTableStyle.pngl)
+
